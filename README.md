@@ -1,1 +1,1 @@
-# whiteboardly
+This is whiteboardly an AI tutoring app
